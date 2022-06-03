@@ -30,10 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![flixster (1) (1)](https://user-images.githubusercontent.com/92744208/171965457-94b20d48-b41a-451e-9747-739e1101a35c.gif)
+<img src='https://user-images.githubusercontent.com/92744208/171965457-94b20d48-b41a-451e-9747-739e1101a35c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -52,7 +49,7 @@ My other challenge was getting the image on the details page to display, but I f
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Emily Kania]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
